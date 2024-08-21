@@ -8,4 +8,6 @@ This project aims to recover a private key corresponding to a specific Bitcoin a
 - **Parallel Processing:** Uses OpenMP to leverage multi-core CPUs for faster processing.
 - **Preimage Attack:** Systematically searches for a private key by finding the preimage of a given hash.
 
+test image!
+
 S33N 00 
